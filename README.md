@@ -32,6 +32,3 @@ https://imgur.com/HTNAyN7
 ![1](https://imgur.com/0OkZYXt.jpg)
 ![1](https://imgur.com/HTNAyN7.jpg)
 
-
-## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https://imgur.com/ypJkZ7U.jpg)
