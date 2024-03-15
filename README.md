@@ -24,9 +24,9 @@
 ![1](https://imgur.com/0OkZYXt.jpg)
 9. Configure Azure Private Link and Firewall fo your Azure Storage Account instance Azure Keyvault Instance AKV
 ![1](https://imgur.com/HTNAyN7.jpg)
-10. Configure Azure Private Link and Firewall foi your Azure Storage Account instance Storage
+10. Configure Azure Private Link and Firewall for your Azure Storage Account instance Storage
 ![1](https://imgur.com/l5aIGfb.jpg)
-11. Observe Network Watcher lopology tortne region and resource group all of your stuff is in.
+11. Observe Network Watcher topology tortne region and resource group all of your stuff is in.
 ![1](https://imgur.com/GS5OeZm.jpg)
 12. --
 ![1](https://imgur.com/VFSNIDt.jpg)
