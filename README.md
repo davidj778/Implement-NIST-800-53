@@ -21,14 +21,16 @@
 13. Configure Azure Private Link and Firewall for your Azure Storage Account instance Linux VM
 ![1](https://imgur.com/0OkZYXt.jpg)
 15. Configure Azure Private Link and Firewall fo your Azure Storage Account instance Azure Keyvault Instance AKV
-16. Configure Azure Private Link and Firewall foi your Azure Storage Account instance Storage
-17. Observe Network Watcher lopology tortne region and resource group all of your stuff is in.
+![1](https://imgur.com/HTNAyN7.jpg)
+17. Configure Azure Private Link and Firewall foi your Azure Storage Account instance Storage
+![1](https://imgur.com/l5aIGfb.jpg)
+19. Observe Network Watcher lopology tortne region and resource group all of your stuff is in.
 ![1](https://imgur.com/GS5OeZm.jpg)
-19. --
+20. --
 ![1](https://imgur.com/VFSNIDt.jpg)
-20. Attach network security group to subnet
+21. Attach network security group to subnet
 ![1](https://imgur.com/GbY8Ddv.jpg)
-21. You can see the nsg attached to the subnet
+22. You can see the nsg attached to the subnet
 ![1](https://imgur.com/xDw0AKc.jpg)
 
 https://imgur.com/PejDV65
@@ -48,9 +50,8 @@ https://imgur.com/HTNAyN7
 
 
 
-![1](https://imgur.com/l5aIGfb.jpg)
-![1](https://imgur.com/GS5OeZm.jpg)
-![1](https://imgur.com/VFSNIDt.jpg)
+
+
 
 
 ![1](https://imgur.com/F9rx0Om.jpg)
@@ -58,5 +59,5 @@ https://imgur.com/HTNAyN7
 
 
 
-![1](https://imgur.com/HTNAyN7.jpg)
+
 
