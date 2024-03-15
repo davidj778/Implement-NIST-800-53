@@ -7,19 +7,21 @@
 
 
 1. Add NIST 800-53
-2. Disable public access
-3. Create a private endpoint
-4. Configure Azure Private Link and Firewall for your Azure Key Vault instance
-5. Configure Azure Private Link and Firewall for your Azure Storage Account instance
-6. Configure Azure Private Link and Firewall for your Azure Storage Account instance
-7. Observe Network Watcher lovolocy for the region and resource group all of your stuff is in.
-8. Configure Azure Private Link and Firewall for your Azure Storage Account instance Linux VM
-9. Configure Azure Private Link and Firewall fo your Azure Storage Account instance Azure Keyvault Instance AKV
-10. Configure Azure Private Link and Firewall foi your Azure Storage Account instance Storage
-11. Observe Network Watcher lopology tortne region and resource group all of your stuff is in.
-12. 
-13. Attach network security group to subnet
-14. You can see the nsg attached to the subnet
+![1](https://imgur.com/PejDV65.jpg)
+3. Disable public access
+![1](https://imgur.com/ZenvLbz.jpg)
+5. Create a private endpoint
+6. Configure Azure Private Link and Firewall for your Azure Key Vault instance
+7. Configure Azure Private Link and Firewall for your Azure Storage Account instance
+8. Configure Azure Private Link and Firewall for your Azure Storage Account instance
+9. Observe Network Watcher lovolocy for the region and resource group all of your stuff is in.
+10. Configure Azure Private Link and Firewall for your Azure Storage Account instance Linux VM
+11. Configure Azure Private Link and Firewall fo your Azure Storage Account instance Azure Keyvault Instance AKV
+12. Configure Azure Private Link and Firewall foi your Azure Storage Account instance Storage
+13. Observe Network Watcher lopology tortne region and resource group all of your stuff is in.
+14. 
+15. Attach network security group to subnet
+16. You can see the nsg attached to the subnet
 
 
 https://imgur.com/PejDV65
