@@ -25,8 +25,9 @@
 17. Observe Network Watcher lopology tortne region and resource group all of your stuff is in.
 18. 
 19. Attach network security group to subnet
-20. You can see the nsg attached to the subnet
-
+![1](https://imgur.com/GbY8Ddv.jpg)
+21. You can see the nsg attached to the subnet
+![1](https://imgur.com/xDw0AKc.jpg)
 
 https://imgur.com/PejDV65
 https://imgur.com/l5aIGfb
@@ -48,8 +49,7 @@ https://imgur.com/HTNAyN7
 ![1](https://imgur.com/l5aIGfb.jpg)
 ![1](https://imgur.com/GS5OeZm.jpg)
 ![1](https://imgur.com/VFSNIDt.jpg)
-![1](https://imgur.com/GbY8Ddv.jpg)
-![1](https://imgur.com/xDw0AKc.jpg)
+
 
 ![1](https://imgur.com/F9rx0Om.jpg)
 ![1](https://imgur.com/sam0QNR.jpg)
