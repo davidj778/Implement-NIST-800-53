@@ -30,7 +30,7 @@ In this lab, I added the NIST 800-53 framework in Microsoft Azure.
 
 ![1](https://imgur.com/fQDKY7s.jpg)
 
-7. Observe Network Watcher lovolocy for the region and resource group all of your stuff is in.
+7. Observe Network Watcher topology for the region and resource group. Male sure all of your stuff is there.
 
 ![1](https://imgur.com/KLFsUqC.jpg)
 
@@ -38,7 +38,7 @@ In this lab, I added the NIST 800-53 framework in Microsoft Azure.
 
 ![1](https://imgur.com/0OkZYXt.jpg)
 
-9. Configure Azure Private Link and Firewall fo your Azure Storage Account instance Azure Keyvault Instance AKV
+9. Configure Azure Private Link and Firewall for your Azure Storage Account instance Azure Keyvault Instance AKV
 
 ![1](https://imgur.com/HTNAyN7.jpg)
 
@@ -46,7 +46,7 @@ In this lab, I added the NIST 800-53 framework in Microsoft Azure.
 
 ![1](https://imgur.com/l5aIGfb.jpg)
 
-11. Observe Network Watcher topology tortne region and resource group all of your stuff is in.
+11. Observe Network Watcher topology for the region and resource group. Make sure all of your stuff is there.
 
 ![1](https://imgur.com/GS5OeZm.jpg)
 
