@@ -2,7 +2,7 @@
 
 # Implement NIST 800-53
 
-
+In this lab, I added the NIST 800-53 framework in Microsoft Azure.
 
 
 
